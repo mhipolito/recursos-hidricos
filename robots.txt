@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://recursos-hidricos.pages.dev/sitemap.xml
