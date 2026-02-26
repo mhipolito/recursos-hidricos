@@ -3,7 +3,7 @@
     <title>Recursos Hídricos</title>
     <link href="https://recursos-hidricos.pages.dev/feed.xml" rel="self" />
     <link href="https://recursos-hidricos.pages.dev" />
-    <updated>2026-02-25T16:35:33+00:00</updated>
+    <updated>2026-02-26T11:58:30+00:00</updated>
     <author>
         <name>Prof. Marco Hipólito</name>
     </author>
@@ -108,14 +108,14 @@
             <summary type="html">
                 <![CDATA[
                         <img src="https://recursos-hidricos.pages.dev/media/posts/6/buffik-business-5475661_1280.jpg" alt="" />
-                    Evaporação: passagem da água do estado gasoso ao estado líquido. fenómeno resultante da transpiração das plantas e da evaporação do meio circundante (superfície do solo, água retida nas depressões do terreno, rios, lagos, etc.). queda de água no estado líquido (chuva ou pluviosidade) ou no estado sólido (neve, granizo e&hellip;
+                    Evaporação: passagem da água do estado líquido ao estado gasoso. fenómeno resultante da transpiração das plantas e da evaporação do meio circundante (superfície do solo, água retida nas depressões do terreno, rios, lagos, etc.). queda de água no estado líquido (chuva ou pluviosidade) ou no estado sólido (neve, granizo e&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://recursos-hidricos.pages.dev/media/posts/6/buffik-business-5475661_1280.jpg" class="type:primaryImage" alt="" /></p>
                 <h3>Evaporação:</h3>
-<p>passagem da água do estado gasoso ao estado líquido.</p>
+<p>passagem da água do estado líquido ao estado gasoso.</p>
 <h3>Evapotranspiração:</h3>
 <p>fenómeno resultante da transpiração das plantas e da evaporação do meio circundante (superfície do solo, água retida nas depressões do terreno, rios, lagos, etc.).</p>
 <h3>Precipitação:</h3>
@@ -152,6 +152,14 @@
 <p data-path-to-node="10,4,0">Entrada de água do mar nos aquíferos de água doce, geralmente causada por excesso de furos e bombagem perto da costa.</p>
 <h3 data-path-to-node="10,5,0">Stress Hídrico:</h3>
 <p data-path-to-node="10,5,0">Situação em que a procura de água excede a quantidade disponível durante um determinado período.</p>
+<h3 data-path-to-node="8,0,0"><strong data-path-to-node="8,0,0" data-index-in-node="0">Uso Consuntivo:</strong></h3>
+<p data-path-to-node="8,0,0">Água que é retirada da fonte e não regressa imediatamente ao ciclo (ex: rega ou consumo humano). </p>
+<h3 data-path-to-node="8,1,0"><strong data-path-to-node="8,1,0" data-index-in-node="0">Águas Residuais Tratadas (ApR):</strong></h3>
+<p data-path-to-node="8,1,0">Água proveniente de esgotos que, após tratamento, é usada para regar jardins ou campos de golfe. </p>
+<h3 data-path-to-node="8,2,0"><strong data-path-to-node="8,2,0" data-index-in-node="0">Pegada Hídrica:</strong></h3>
+<p data-path-to-node="8,2,0">Indicador do volume total de água doce utilizado para produzir um bem ou serviço. <i data-path-to-node="8,2,0" data-index-in-node="98"></i></p>
+<h3 data-path-to-node="8,3,0"><strong data-path-to-node="8,3,0" data-index-in-node="0">Dessalinização:</strong></h3>
+<p data-path-to-node="8,3,0">Processo de remoção de sais da água do mar para a tornar potável.</p>
 <p> </p>
             ]]>
         </content>
